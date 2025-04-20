@@ -30,5 +30,5 @@ This project focuses on visualizing global population statistics using real-worl
   - `Pandas` for data handling and cleaning
   - `Matplotlib` for data visualization
 
-## 📂 Project Structure
+
 
